@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496878217481",
+    "firebase_url": "https://hotel-management-18f05.firebaseio.com",
+    "project_id": "hotel-management-18f05",
+    "storage_bucket": "hotel-management-18f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496878217481:android:5ffd56056486a446a1cbd8",
+        "android_client_info": {
+          "package_name": "com.example.nodalalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496878217481-m9uo6rghmvo6p5n4rh12m3r0j2v79a02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJcTUpkpdxSx8qScAExOKupfx_2dE9m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496878217481-m9uo6rghmvo6p5n4rh12m3r0j2v79a02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
